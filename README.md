@@ -17,7 +17,6 @@ The objective of this project was to establish a private network connection betw
 - SSH ProxyJump
 
 ## 🏗️ Architecture & Resource Inventory
-*(Note: Upload your architecture diagram image to the repo and name it `architecture_diagram.png` so it displays below)*
 
 ![Architecture Diagram](architecture_diagram.png)
 
